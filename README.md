@@ -1,4 +1,4 @@
-<b>Discover server (Eureka) used with other projects/repositories for microservice solution</b>
+# Discover server (Eureka) for microservice solution
 <br>
  Repositories:<Br>
  catalog - catalog-service<br>
